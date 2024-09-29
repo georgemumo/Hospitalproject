@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="select_doctor">select doctor</string>
+    <string name="select_date">Select date</string>
+    <string name="choose_date">choose date</string>
+    <string name="choose_time">choose time</string>
+    <string name="select_time">select_time</string>
+    <string name="shedule">shedule</string>
+    <string name="shedule_appointment">shedule appointment</string>
+    <string name="title_activity_appointment">Appointment_activity</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doctor_array">
+        <item>Dr.George</item>
+        <item>Dr.John</item>
+        <item>Dr.Peter</item>
+        <item>Dr.James</item>
+        <item>Dr.Smith</item>
+        <item>Dr.Tom</item>
+    </string-array>
+</resources>
